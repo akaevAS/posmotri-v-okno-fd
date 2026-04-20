@@ -1,1 +1,1 @@
-(https://github.com/akaevAS/posmotri-v-okno-fd)
+https://github.com/akaevAS/posmotri-v-okno-fd
