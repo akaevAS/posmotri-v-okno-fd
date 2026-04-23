@@ -259,16 +259,14 @@ ol {
   color: #fff;
   background-color: transparent;
   cursor: pointer;
+  min-height: 34px;
 }
 
 .search-form__submit-button {
   align-self: flex-end;
-  height: 34px;
-  width: 194px;
 }
 
 .more-button {
-  height: 34px;
   width: 390px;
 }
 
@@ -300,6 +298,10 @@ ol {
 
 .content__card-link:active {
   text-decoration: none;
+  background-color: #545050;
+}
+
+.content__card-link_current {
   background-color: #545050;
 }
 
