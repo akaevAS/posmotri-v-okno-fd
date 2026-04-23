@@ -142,6 +142,8 @@ ol {
 .content__card-link {
   text-decoration: none;
   color: #fff;
+  display: block;
+  outline: none;
 }
 
 .content__video-card-title {
@@ -277,13 +279,6 @@ ol {
 .button:active {
   text-decoration: none;
   background-color: #545050;
-}
-
-.content__card-link {
-  text-decoration: none;
-  display: block;
-  color: #fff;
-  outline: none;
 }
 
 .content__card-link:focus-visible {
